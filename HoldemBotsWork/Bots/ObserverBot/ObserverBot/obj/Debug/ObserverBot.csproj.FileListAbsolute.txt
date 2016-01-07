@@ -1,0 +1,7 @@
+C:\Projects\HoldemBotsWork\Bots\ObserverBot\ObserverBot\bin\Debug\ObserverBot.dll
+C:\Projects\HoldemBotsWork\Bots\ObserverBot\ObserverBot\bin\Debug\ObserverBot.pdb
+C:\Projects\HoldemBotsWork\Bots\ObserverBot\ObserverBot\bin\Debug\HoldemPlayerContract.dll
+C:\Projects\HoldemBotsWork\Bots\ObserverBot\ObserverBot\bin\Debug\HoldemPlayerContract.pdb
+C:\Projects\HoldemBotsWork\Bots\ObserverBot\ObserverBot\obj\Debug\ObserverBot.csprojResolveAssemblyReference.cache
+C:\Projects\HoldemBotsWork\Bots\ObserverBot\ObserverBot\obj\Debug\ObserverBot.dll
+C:\Projects\HoldemBotsWork\Bots\ObserverBot\ObserverBot\obj\Debug\ObserverBot.pdb

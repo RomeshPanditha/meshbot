@@ -1,0 +1,16 @@
+C:\Projects\HoldemBots\HoldemController\HoldemController\bin\Debug\HoldemController.exe.config
+C:\Projects\HoldemBots\HoldemController\HoldemController\bin\Debug\HoldemController.exe
+C:\Projects\HoldemBots\HoldemController\HoldemController\bin\Debug\HoldemController.pdb
+C:\Projects\HoldemBots\HoldemController\HoldemController\bin\Debug\HoldemPlayerContract.dll
+C:\Projects\HoldemBots\HoldemController\HoldemController\bin\Debug\HoldemPlayerContract.pdb
+C:\Projects\HoldemBots\HoldemController\HoldemController\obj\Debug\HoldemController.csprojResolveAssemblyReference.cache
+C:\Projects\HoldemBots\HoldemController\HoldemController\obj\Debug\HoldemController.exe
+C:\Projects\HoldemBots\HoldemController\HoldemController\obj\Debug\HoldemController.pdb
+C:\Projects\HoldemBotsWork\HoldemController\HoldemController\bin\Debug\HoldemController.exe.config
+C:\Projects\HoldemBotsWork\HoldemController\HoldemController\obj\Debug\HoldemController.exe
+C:\Projects\HoldemBotsWork\HoldemController\HoldemController\obj\Debug\HoldemController.pdb
+C:\Projects\HoldemBotsWork\HoldemController\HoldemController\bin\Debug\HoldemController.exe
+C:\Projects\HoldemBotsWork\HoldemController\HoldemController\bin\Debug\HoldemController.pdb
+C:\Projects\HoldemBotsWork\HoldemController\HoldemController\bin\Debug\HoldemPlayerContract.pdb
+C:\Projects\HoldemBotsWork\HoldemController\HoldemController\obj\Debug\HoldemController.csprojResolveAssemblyReference.cache
+C:\Projects\HoldemBotsWork\HoldemController\HoldemController\bin\Debug\HoldemPlayerContract.dll

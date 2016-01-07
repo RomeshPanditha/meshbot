@@ -1,0 +1,7 @@
+C:\Projects\HoldemBotsWork\Bots\BetterBot\BetterBot\obj\Debug\BetterBot.csprojResolveAssemblyReference.cache
+C:\Projects\HoldemBotsWork\Bots\BetterBot\BetterBot\bin\Debug\BetterBot.dll
+C:\Projects\HoldemBotsWork\Bots\BetterBot\BetterBot\bin\Debug\BetterBot.pdb
+C:\Projects\HoldemBotsWork\Bots\BetterBot\BetterBot\bin\Debug\HoldemPlayerContract.dll
+C:\Projects\HoldemBotsWork\Bots\BetterBot\BetterBot\bin\Debug\HoldemPlayerContract.pdb
+C:\Projects\HoldemBotsWork\Bots\BetterBot\BetterBot\obj\Debug\BetterBot.dll
+C:\Projects\HoldemBotsWork\Bots\BetterBot\BetterBot\obj\Debug\BetterBot.pdb

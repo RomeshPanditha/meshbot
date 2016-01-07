@@ -1,0 +1,7 @@
+C:\Projects\HoldemBotsWork\Bots\CallerBot\CallerBot\obj\Debug\CallerBot.csprojResolveAssemblyReference.cache
+C:\Projects\HoldemBotsWork\Bots\CallerBot\CallerBot\obj\Debug\CallerBot.dll
+C:\Projects\HoldemBotsWork\Bots\CallerBot\CallerBot\obj\Debug\CallerBot.pdb
+C:\Projects\HoldemBotsWork\Bots\CallerBot\CallerBot\bin\Debug\CallerBot.dll
+C:\Projects\HoldemBotsWork\Bots\CallerBot\CallerBot\bin\Debug\CallerBot.pdb
+C:\Projects\HoldemBotsWork\Bots\CallerBot\CallerBot\bin\Debug\HoldemPlayerContract.pdb
+C:\Projects\HoldemBotsWork\Bots\CallerBot\CallerBot\bin\Debug\HoldemPlayerContract.dll
