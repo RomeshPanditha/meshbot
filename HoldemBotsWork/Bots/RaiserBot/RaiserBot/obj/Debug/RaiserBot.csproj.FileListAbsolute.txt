@@ -12,3 +12,9 @@ C:\Projects\HoldemBotsWork\Bots\RaiserBot\RaiserBot\bin\Debug\HoldemPlayerContra
 C:\Projects\HoldemBotsWork\Bots\RaiserBot\RaiserBot\obj\Debug\RaiserBot.csprojResolveAssemblyReference.cache
 C:\Projects\HoldemBotsWork\Bots\RaiserBot\RaiserBot\obj\Debug\RaiserBot.dll
 C:\Projects\HoldemBotsWork\Bots\RaiserBot\RaiserBot\obj\Debug\RaiserBot.pdb
+C:\homerepos\HoldemBotsWork\Bots\RaiserBot\RaiserBot\bin\Debug\RaiserBot.dll
+C:\homerepos\HoldemBotsWork\Bots\RaiserBot\RaiserBot\bin\Debug\RaiserBot.pdb
+C:\homerepos\HoldemBotsWork\Bots\RaiserBot\RaiserBot\bin\Debug\HoldemPlayerContract.dll
+C:\homerepos\HoldemBotsWork\Bots\RaiserBot\RaiserBot\bin\Debug\HoldemPlayerContract.pdb
+C:\homerepos\HoldemBotsWork\Bots\RaiserBot\RaiserBot\obj\Debug\RaiserBot.dll
+C:\homerepos\HoldemBotsWork\Bots\RaiserBot\RaiserBot\obj\Debug\RaiserBot.pdb

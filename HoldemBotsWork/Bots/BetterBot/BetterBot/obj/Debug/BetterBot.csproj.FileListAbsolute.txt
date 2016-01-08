@@ -5,3 +5,9 @@ C:\Projects\HoldemBotsWork\Bots\BetterBot\BetterBot\bin\Debug\HoldemPlayerContra
 C:\Projects\HoldemBotsWork\Bots\BetterBot\BetterBot\bin\Debug\HoldemPlayerContract.pdb
 C:\Projects\HoldemBotsWork\Bots\BetterBot\BetterBot\obj\Debug\BetterBot.dll
 C:\Projects\HoldemBotsWork\Bots\BetterBot\BetterBot\obj\Debug\BetterBot.pdb
+C:\homerepos\HoldemBotsWork\Bots\BetterBot\BetterBot\bin\Debug\BetterBot.dll
+C:\homerepos\HoldemBotsWork\Bots\BetterBot\BetterBot\bin\Debug\BetterBot.pdb
+C:\homerepos\HoldemBotsWork\Bots\BetterBot\BetterBot\bin\Debug\HoldemPlayerContract.dll
+C:\homerepos\HoldemBotsWork\Bots\BetterBot\BetterBot\bin\Debug\HoldemPlayerContract.pdb
+C:\homerepos\HoldemBotsWork\Bots\BetterBot\BetterBot\obj\Debug\BetterBot.dll
+C:\homerepos\HoldemBotsWork\Bots\BetterBot\BetterBot\obj\Debug\BetterBot.pdb
